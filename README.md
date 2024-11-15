@@ -29,7 +29,7 @@ val careerHistory = for {
 val dailyTech = List(".scala", ".ts", ".sql")
 
 val interests = List("Raspberry Pi", "TinyML", "Functional programming", 
-                     "Entrepreneurship", "Firefighting", "Bitcoin", "Coffee")
+                     "Entrepreneurship", "Firefighting", "Blockchain", "Coffee")
 
 ```
 
