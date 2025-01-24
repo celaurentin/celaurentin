@@ -28,8 +28,13 @@ val careerHistory = for {
 
 val dailyTech = List(".scala", ".ts", ".sql")
 
-val interests = List("Raspberry Pi", "TinyML", "Functional programming", 
+val interests = List("Trading", "Raspberry Pi", "TinyML", "Functional programming", 
                      "Entrepreneurship", "Firefighting", "Blockchain", "Coffee")
+
+val booksRecurrentlyReading = List(
+  "The Software Engineer's Guidebook by Gergely Orosz",
+  "Accelerate by Nicole Forsgren, Jez Humble, and Gene Kim"
+)
 
 ```
 
