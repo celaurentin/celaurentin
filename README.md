@@ -26,7 +26,9 @@ val careerHistory = for {
   previous = List("Optum", "Rally Health", "JPMorgan", "HMH", "Telefonica")
 } yield s"$current, Previously at ${previous.mkString(", ")}"
 
-val dailyTech = List(".scala", ".ts", ".sql")
+val dailyCoding = Seq(".scala", ".ts", ".sql", ".py")
+
+val dailyTech = Seq("Docker", "K8s", "GCP", "Github")
 
 val interests = List("Trading", "Raspberry Pi", "TinyML", "Functional programming", 
                      "Entrepreneurship", "Firefighting", "Blockchain", "Coffee")
