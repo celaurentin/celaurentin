@@ -30,13 +30,20 @@ val dailyCoding = Seq(".scala", ".ts", ".sql", ".py")
 
 val dailyTech = Seq("Docker", "K8s", "GCP", "Github")
 
-val interests = List("Trading", "Raspberry Pi", "TinyML", "Functional programming", 
-                     "Entrepreneurship", "Firefighting", "Blockchain", "Coffee")
+val interests = List(
+  "Trading", "Raspberry Pi", "TinyML", 
+  "Functional Programming", "Entrepreneurship",
+  "Firefighting", "Blockchain", "Coffee ☕"
+)
 
 val booksRecurrentlyReading = List(
   "The Software Engineer's Guidebook by Gergely Orosz",
   "Accelerate by Nicole Forsgren, Jez Humble, and Gene Kim"
 )
+
+// Follow my journey:  
+val github = "https://github.com/cesar-nt"  
+val linkedIn = "https://www.linkedin.com/in/cesar-laurentin"
 
 ```
 
