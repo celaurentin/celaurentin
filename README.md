@@ -28,10 +28,10 @@ val careerHistory = for {
 
 val dailyCoding = Seq(".scala", ".ts", ".sql", ".py")
 
-val dailyTech = Seq("Docker", "K8s", "GCP", "Github")
+val dailyTech = Seq("Akka", "Docker", "K8s", "GCP", "Github")
 
 val interests = List(
-  "Trading", "Raspberry Pi", "TinyML", 
+  "Trading", "Agentic AI", "Raspberry Pi", "TinyML", 
   "Functional Programming", "Entrepreneurship",
   "Firefighting", "Blockchain", "Coffee ☕"
 )
